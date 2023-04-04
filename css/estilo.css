@@ -1,0 +1,10 @@
+/*comentario generico para identificar al css*/
+
+table {
+    border-color: black;
+    border-width: 1px;
+}
+
+p{
+    justify-content: center;
+}

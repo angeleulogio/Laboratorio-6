@@ -1,10 +1,19 @@
 /*comentario generico para identificar al css*/
-
-table {
-    border-color: black;
-    border-width: 1px;
-}
-
 p{
     justify-content: center;
+}
+
+img{
+    height: 90%;
+    width: 90%;
+}
+
+img.p22{
+    height: 50%;
+    width: 50%;
+}
+
+img.p33{
+    height: 30%;
+    width: 30%;
 }
